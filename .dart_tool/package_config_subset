@@ -98,10 +98,6 @@ vm_service
 3.3
 file:///C:/Users/irfan/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.0.0/
 file:///C:/Users/irfan/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.0.0/lib/
-loginscreen
-3.6
-file:///C:/Users/irfan/loginscreen/
-file:///C:/Users/irfan/loginscreen/lib/
 sky_engine
 3.7
 file:///C:/flutter_sdk/flutter/bin/cache/pkg/sky_engine/
@@ -114,4 +110,8 @@ flutter_test
 3.7
 file:///C:/flutter_sdk/flutter/packages/flutter_test/
 file:///C:/flutter_sdk/flutter/packages/flutter_test/lib/
+loginscreen
+3.6
+file:///D:/Bitbucketpersonal/ui-design/
+file:///D:/Bitbucketpersonal/ui-design/lib/
 2
